@@ -1,0 +1,13 @@
+{
+  "name": "@zete-weui/theme-chalk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rimraf dist",
+    "build": "gulp --require @esbuild-kit/cjs-loader"
+  },
+  "keywords": [],
+  "author": "zhangcy",
+  "license": "MIT"
+}

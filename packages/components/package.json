@@ -1,0 +1,9 @@
+{
+  "name": "@zete-weui/components",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.ts",
+  "keywords": [],
+  "author": "zhangcy",
+  "license": "MIT"
+}
